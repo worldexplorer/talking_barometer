@@ -1,0 +1,1 @@
+for %i in (*.wav) do ad4converter -E4 %i
